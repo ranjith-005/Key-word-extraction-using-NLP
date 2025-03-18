@@ -18,24 +18,24 @@
 
 🔧 Installation & Setup
 1️⃣ Clone the repository
-
 bash
 Copy
 Edit
 git clone https://github.com/your-username/keyword-extraction.git
 cd keyword-extraction
-2️⃣ Install dependencies
 
+2️⃣ Install dependencies
 bash
 Copy
 Edit
 pip install -r requirements.txt
-3️⃣ Run the script
 
+3️⃣ Run the script
 bash
 Copy
 Edit
 python keyword_extraction.py
+
 📌 Usage
 📂 Upload a text file or provide input text.
 🔍 Select extraction method – TF-IDF, NER, or regex-based.
