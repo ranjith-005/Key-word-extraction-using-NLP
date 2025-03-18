@@ -22,7 +22,7 @@
 bash
 Copy
 Edit
-git clone https://github.com/your-username/keyword-extraction.git
+git clone https://github.com/ranjith-005/keyword-extraction.git
 cd keyword-extraction
 
 2️⃣ Install dependencies
